@@ -3,6 +3,7 @@
 
 	angular
 		.module('cordova', [
+			'ls.shared',
 			'ui.router'
 		])
 		.config(['$urlRouterProvider', '$stateProvider', config])
@@ -26,7 +27,7 @@
 			views: {
 				'header@app': {
 					controller: function(){ console.log('app.index header view controller'); },
-					template: 'Header'
+					template: '<ls-header></ls-header>'
 				}
 			},
 		});

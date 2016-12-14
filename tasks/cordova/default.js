@@ -20,7 +20,7 @@ gulp.task('cordova:html', function(){
 
 gulp.task('cordova:js', function(){
 	gulp.src([
-		'node_modules/angular/angular.js',
+		// 'node_modules/angular/angular.js',
 		'node_modules/angular-ui-router/release/angular-ui-router.js',
 		'src/cordova/app.module.js'
 	])
