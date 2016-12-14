@@ -1,0 +1,13 @@
+{
+  "name": "lunchscan",
+  "version": "1.0.0",
+  "description": "Lunch Scan - Search and book business lunches around you",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LunchScan Team",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
