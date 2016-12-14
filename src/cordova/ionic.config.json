@@ -1,6 +1,6 @@
 {
-  "name": "lunchscan",
-  "app_id": "fbfa9496",
-  "v2": true,
-  "typescript": false
+	"name": "lunchscan",
+	"app_id": "fbfa9496",
+	"v2": true,
+	"typescript": false
 }
