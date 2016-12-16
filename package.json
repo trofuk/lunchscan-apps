@@ -10,10 +10,12 @@
   "devDependencies": {
     "angular": "^1.6.0",
     "angular-ui-router": "^0.3.2",
+    "bootstrap-sass": "^3.3.7",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-flatten": "^0.3.1",
+    "gulp-sass": "^3.0.0",
     "opener": "^1.4.2"
   }
 }
